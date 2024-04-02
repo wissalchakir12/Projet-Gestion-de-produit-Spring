@@ -17,7 +17,7 @@ public class ProductRestService
     @Autowired
     private ProductRepository productRepository;
 
-    // on aura la list de tous les produits en format JSON car on a utiliser un RestController!
+    // on aura la liste de tous les produits en format JSON car on a utiliser un RestController!
     @GetMapping("/products")
     public List<Product> products()
     {

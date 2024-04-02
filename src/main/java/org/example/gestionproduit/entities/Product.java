@@ -9,7 +9,7 @@ import lombok.Builder;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
-// lombok va générer getters et setters
+// lombok va générer getters et setters.
 @Data @NoArgsConstructor @AllArgsConstructor
 @Entity
 public class Product
@@ -20,5 +20,4 @@ public class Product
     private String name;
     private double price;
     private int quantite;
-
 }
