@@ -4,7 +4,7 @@
 Ce projet est pour la gestion des projet en utilisant Sring Data , JPA , h2 database et mySQL en configurant le fichier "application.properties" .
 Voici les différentes parties de mon code :
 
-<h3>Ajout des dépandances :</h3>
+<h3>Ajout des  dépendances :</h3>
 <img src="./Captures/dependance.PNG">
 
 <h3>Configuration du fichier application.properties :</h3>
